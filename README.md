@@ -4,5 +4,4 @@ let me try this
 hello i got this something changed in the master
 this is my profile
 why is there no change
-still confusing
-much better
+much bettergit 
